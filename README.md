@@ -41,7 +41,6 @@ More projects will be added as ideas mature into usable systems.
 ## 📫 Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/jwidhrani 
-- 💻 Kaggle: https://www.kaggle.com/jayawidhran
 ---
 
 _Always learning. Always questioning assumptions._
